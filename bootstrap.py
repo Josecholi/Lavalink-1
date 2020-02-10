@@ -18,7 +18,7 @@ class LavalinkBootstrap:
         Doing important stuff here
         """
 
-        self.download_command = "wget https://github.com/Frederikam/Lavalink/releases/download/3.2.2/Lavalink.jar"
+        self.download_command = "wget https://ci.fredboat.com/viewLog.html?buildId=lastSuccessful&buildTypeId=Lavalink_Build&tab=artifacts&guest=1"
 
         self.replace_port_command = 'sed -i "s|DYNAMICPORT|$PORT|" application.yml'
 

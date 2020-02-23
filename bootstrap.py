@@ -110,7 +110,7 @@ class LavalinkBootstrap:
         Runs Lavalink instance
         """
 
-        """self.download()"""
+        self.download()
         self.replace_password_and_port()
 
         print(

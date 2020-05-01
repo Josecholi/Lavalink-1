@@ -1,6 +1,6 @@
 # Zorin Lavalink
 
-> This item is edited to work with [Lavalink](https://github.com/Frederikam/Lavalink) version **3.2.2**
+> This item is edited to work with [Lavalink](https://github.com/Frederikam/Lavalink) version **3.3.1**
 ---
 
 Credits:
